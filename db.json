@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "qsdxc",
+      "id": 1
+    },
+    {
+      "name": "qsdxcss",
+      "id": 2
+    },
+    {
+      "name": "qsdxcssss",
+      "id": 3
+    },
+    {
+      "name": "qsdxcssssss",
+      "id": 4
+    }
+  ],
+  "articles": [
+    {
+      "nom": "qs",
+      "id": 1
+    },
+    {
+      "nom": "qss",
+      "id": 2
+    },
+    {
+      "nom": "qssqs",
+      "id": 3
+    }
+  ]
+}
